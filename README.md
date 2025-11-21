@@ -24,10 +24,6 @@
   <hr width="60%" >
 </p>
 
-<div style="text-align: center;">
-  <hr style="margin: 0 auto; width:60%;"/>
-</div>
-
 <br>
 
 <p align="center">
@@ -35,6 +31,10 @@
 </p>
 
 <br>
+
+<div align="center">
+    <hr style="width: 60%; margin: 0 auto;"/>
+</div>
 
 <p align="center">
   <a href="https://code.visualstudio.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/></a>
