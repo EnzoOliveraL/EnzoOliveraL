@@ -40,6 +40,7 @@
   <a href="https://grafana.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/></a>
 </p>
 
+<br>
 
 <p align="center">
   <h2 align="center"><img src="https://github.com/EnzoOliveraL/EnzoOliveraL/blob/main/Assets/saludoManos.gif" width="60px"> Conectemos</h2>
