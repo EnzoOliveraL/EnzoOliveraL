@@ -43,7 +43,7 @@
 <h2></h2>
 
 <p align="center">
-  <img src="https://github.com/EnzoOliveraL/EnzoOliveraL/blob/main/Assets/saludoManos.gif" width="30px"> Conectemos
+  <img src="https://github.com/EnzoOliveraL/EnzoOliveraL/blob/main/Assets/saludoManos.gif" width="60px"> Conectemos
 </p>
 
 <br>
