@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-  <a href="https://code.visualstudio.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com" target="blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/></a>
   <a href="" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
   <a href="https://git-scm.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://github.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/></a>
