@@ -18,10 +18,16 @@
 
 <img src="https://github.com/EnzoOliveraL/EnzoOliveraL/blob/main/Assets/medalla.gif" width="30px"> Mi objetivo es consolidar mi experiencia y avanzar en un entorno que me permita crecer y mejorar continuamente mediante la participación en proyectos desafiantes y escalables.
 
+<br>
+
 <hr width="60%" >
 
 <br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Lenguajes y herramientas***
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+</p>
