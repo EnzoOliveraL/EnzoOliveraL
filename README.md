@@ -49,7 +49,7 @@
 <br>
 
 <p align="center">
-  <a href="mailto:enzoolivera.uy@gmail.com" target="blank" rel="noopener noreferrer">
+  <a href="mailto:enzoolivera.uy@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
   
