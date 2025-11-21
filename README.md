@@ -49,23 +49,13 @@
 <br>
 
 <p align="center">
-  <span style="margin-right: 15px;">
-    <a href="mailto:enzoolivera.uy@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
-    </a>
-  </span>
-
-  <span style="margin-right: 15px;">
-    <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank" rel="noopener noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-    </a>
-  </span>
-  
-  <span style="margin-right: 15px;">
-    <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/>
-    </a>
-  </span>
+  <a href="mailto:enzoolivera.uy@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/>       
+  </a>
+  <span></span>
+  <a href="https://www.linkedin.com/in/enzo-olivera-31215826a" target="blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
 </p>
 
 
