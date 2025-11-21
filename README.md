@@ -43,15 +43,16 @@
 <br>
 
 <p align="center">
-  <h2 align="center"><img src="https://github.com/EnzoOliveraL/EnzoOliveraL/blob/main/Assets/saludoManos.gif" width="60px"> Conectemos</h2>
+  <h2 align="center"><img src="https://github.com/EnzoOliveraL/EnzoOliveraL/blob/main/Assets/saludoManos.gif" width="80px"> Conectemos</h2>
 </p>
 
 <br>
 
 <p align="center">
-  <a href="mailto:enzoolivera.uy@gmail.com" target="blank" rel="noopener noreferrer">
+  <a href="mailto:enzoolivera.uy@gmail.com" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/enzo-olivera-31215826a" target="blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
