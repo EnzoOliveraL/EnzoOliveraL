@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <hr align="center" width="60%" >
+  <hr width="60%" >
 </p>
 
 <br>
@@ -49,7 +49,7 @@
 <br>
 
 <p align="center">
-  <hr align="center" width="60%" >
+  <hr width="60%" >
 </p>
 
 
