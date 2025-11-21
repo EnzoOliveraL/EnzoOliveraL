@@ -25,7 +25,7 @@
 <br>
 
 <p align="center">
-  <h2>🛠 Lenguajes y herramientas:</h2>
+  <h2 align="center">🛠 Lenguajes y herramientas:</h2>
 </p>
 
 <br>
