@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <hr width="60%" >
+  <h2>                                             <hr width="60%" ></h2>
 </p>
 
 <br>
@@ -31,10 +31,6 @@
 </p>
 
 <br>
-
-<div align="center">
-    <hr style="width: 60; margin: 0 auto;"/>
-</div>
 
 <p align="center">
   <a href="https://code.visualstudio.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/></a>
