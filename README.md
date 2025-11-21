@@ -40,12 +40,22 @@
   <a href="https://grafana.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/></a>
 </p>
 
-<br>
-
 <h2></h2>
 
+<p align="center">
+  <img src="https://github.com/EnzoOliveraL/EnzoOliveraL/blob/main/Assets/saludoManos.gif" width="30px"> Conectemos
+</p>
 
+<br>
 
+<p align="center">
+  <a href="mailto:enzoolivera.uy@gmail.com" target="blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/enzo-olivera-31215826a" target="blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
 
 
 
