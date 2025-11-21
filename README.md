@@ -21,10 +21,6 @@
 <br>
 
 <p align="center">
-  <hr width="60%" >
-</p>
-
-<p align="center">
   <h2 align="center">🛠 Lenguajes y herramientas:</h2>
 </p>
 
@@ -46,9 +42,8 @@
 
 <br>
 
-<p align="center">
-  <hr width="60%" >
-</p>
+<h2></h2>
+
 
 
 
