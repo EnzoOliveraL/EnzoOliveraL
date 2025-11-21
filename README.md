@@ -25,7 +25,7 @@
 </p>
 
 <div style="text-align: center;">
-  <hr style="margin: 0 auto; width="60%";"/>
+  <hr style="margin: 0 auto; width:60%;"/>
 </div>
 
 <br>
