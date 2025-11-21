@@ -24,6 +24,10 @@
   <hr width="60%" >
 </p>
 
+<div style="text-align: center;">
+  <hr style="margin: 0 auto; width="60%";"/>
+</div>
+
 <br>
 
 <p align="center">
