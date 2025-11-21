@@ -33,7 +33,7 @@
 <br>
 
 <div align="center">
-    <hr style="width: 60%; margin: 0 auto;"/>
+    <hr style="width: 60; margin: 0 auto;"/>
 </div>
 
 <p align="center">
