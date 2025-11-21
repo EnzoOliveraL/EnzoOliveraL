@@ -21,10 +21,8 @@
 <br>
 
 <p align="center">
-  <p>""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""<hr width="60%" ></p>
+  <hr width="60%" >
 </p>
-
-<br>
 
 <p align="center">
   <h2 align="center">🛠 Lenguajes y herramientas:</h2>
